@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/chwenoo/product-preview-card-component.git]
-- Live Site URL: [Add live site URL here] 
+- Live Site URL: [https://chwenoo.github.io/product-preview-card-component/] 
 
 ## My process
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource](https://www.w3schools.com/tags/tag_strike.asp)
+- [A text with a deleted part, and a new, inserted part:](https://www.w3schools.com/tags/tag_del.asp)
 
 ## Author
 
