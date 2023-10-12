@@ -21,7 +21,7 @@ h1 {
 /* LAYOUT */
 .container {
     height: 100vh;
-    padding: 0 15px; 
+    /* padding: 0 15px; */
 }
 .container,
 .price, 
@@ -122,6 +122,10 @@ h1 {
 
 /* Media Queries */
 @media(max-width: 576px) {
+    .container {
+        height: 100%;
+        padding: 15px;
+    }
     .row .col {
         width: 100%;
     }
